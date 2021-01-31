@@ -1,1 +1,3 @@
 Tu jest pierwszy plik branch main/1
+
+tu coś dodałem
